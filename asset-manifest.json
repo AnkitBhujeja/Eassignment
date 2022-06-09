@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Eassignment/static/css/main.942f22a8.css",
+    "main.js": "/Eassignment/static/js/main.8118d746.js",
+    "static/media/map.png": "/Eassignment/static/media/map.17150d1e6e6206c37ec5.png",
+    "static/media/logo.svg": "/Eassignment/static/media/logo.805da4083a36ad441819aa42251002b6.svg",
+    "index.html": "/Eassignment/index.html",
+    "main.942f22a8.css.map": "/Eassignment/static/css/main.942f22a8.css.map",
+    "main.8118d746.js.map": "/Eassignment/static/js/main.8118d746.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.942f22a8.css",
+    "static/js/main.8118d746.js"
+  ]
+}
